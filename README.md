@@ -123,7 +123,9 @@ supershop/
 │   ├── static/
 │   ├── media/
 |   ├── shop/
-|   ├── middlewares/
+|   ├── middlewares/ 
+|   ├── manage.py
+|   ├── utils.py
 │   └── templates/
 │
 ├── venv/
