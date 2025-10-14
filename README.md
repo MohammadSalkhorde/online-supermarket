@@ -5,6 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+<p align="center">
+  <img src="assets/demo.png" alt="Portfolio Demo" width="800">
+</p>
+
 SuperShop is a **full-featured online supermarket platform** built with **Django**, providing user registration, shopping cart, product management, and order tracking.
 This project is designed as a **learning platform** and also as a base for real-world e-commerce development.
 
