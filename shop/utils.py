@@ -10,7 +10,7 @@ def create_random_code(count):
 from kavenegar import *
 
 def send_sms(mobile,message):
-    # api = KavenegarAPI('556A2B47614B4F396A3265496C63756C356A6E355962447A67464873736E79724F5730744773672F7542303D')
+    # api = KavenegarAPI('')
     # params = { 'sender' : '2000660110', 'receptor': mobile, 'message' :message }
     # response = api.sms_send(params)
     pass
