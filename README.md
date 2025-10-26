@@ -66,8 +66,8 @@ This project is designed as a **learning platform** and also as a base for real-
 ### 1️⃣ Clone the project
 
 ```bash
-git clone https://github.com/MohammadSalkhorde/supershop.git
-cd supershop
+git clone https://github.com/MohammadSalkhorde/online-supermarket.git
+cd online-supermarket
 ```
 
 ### 2️⃣ Create and activate a virtual environment
@@ -120,7 +120,7 @@ python manage.py runserver
 ## 📁 Project Structure
 
 ```
-supershop/
+online-supermarket/
 │
 ├── shop/
 │   ├── apps/
